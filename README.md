@@ -22,3 +22,4 @@
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jooh00_/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/joelma-bittencourt-488a03208) [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joohtrader@gmail.com)
 
 ![Snake animation]
+https://github.com/Joelma-Bittencourt/Joelma-Bittencourt/blob/output/github-contribution-grid-snake.svg
