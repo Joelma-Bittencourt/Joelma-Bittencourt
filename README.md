@@ -16,7 +16,7 @@
   <img align="center" alt="joelma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-  <img align="right" alt="joelma-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="joelma-yoda" src="https://cdn.discordapp.com/attachments/857018821898272780/870440572354199652/20210729_195715.gif">
 </div>
   
   ##
