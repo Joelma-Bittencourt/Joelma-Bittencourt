@@ -1,5 +1,5 @@
 ## Oiie! Eu sou a Joelma Bittencourt💖💖💖✔
-✍🏿Estudando java
+✍🏿Estudando Java e Kotlin
 
 👩🏿‍🎤 pronome:ela/dela
  <div>
