@@ -47,7 +47,7 @@
    
    ##
   
-<h3>Canais para contato:</h3>
+<h3>💻 Canais para contato:</h3>
    
    <p align="left">
  <div> 
